@@ -4,3 +4,7 @@
 	font-weight: 300;
 	line-height: 22px;
 }
+
+.place__website__link:hover{
+  opacity: .8;
+}

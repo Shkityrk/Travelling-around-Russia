@@ -13,3 +13,16 @@
 .footer__link a:hover{
 	opacity: .8;
 }
+
+@media (max-width: 768px){
+  .footer__link{
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 32px;
+  }
+  .footer__link:nth-of-type(5n){
+    margin-bottom: 48px;
+
+  }
+}

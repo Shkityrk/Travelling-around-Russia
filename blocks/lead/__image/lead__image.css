@@ -1,4 +1,6 @@
-.lead__image {
-    position: relative;
-    z-index: 1;
+.lead__image{
+    display: block;
+    width: 100%;
+    max-width: 984px;
 }
+

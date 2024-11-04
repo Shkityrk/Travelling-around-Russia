@@ -1,5 +1,15 @@
 .cover{
 	max-width: 1184px;
+  height: 640px;
 	margin: 92px auto;
 	position: relative;
+  background-position: center;
+  background-image: url("../../images/__background.png");
+}
+
+
+@media (max-width: 1024px){
+  .cover{
+    height: 480px;
+  }
 }
