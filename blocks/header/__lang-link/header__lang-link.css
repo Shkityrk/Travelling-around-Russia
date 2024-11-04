@@ -1,0 +1,12 @@
+.header__lang-link{
+	display: inline-flex;
+	width: 30px;
+	height: 28px;
+	color:var(--text);
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 28px;
+	text-align: right;
+	margin-left: 18px;
+	margin-top: 18px;
+}

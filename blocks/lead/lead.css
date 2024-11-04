@@ -1,0 +1,12 @@
+.lead{
+    max-width: 984px;
+    margin: 56px auto 0;
+    position: relative;
+}
+
+.lead svg{
+    display: block;
+    top: 458px;
+    left:23px;
+    position: absolute;
+}
