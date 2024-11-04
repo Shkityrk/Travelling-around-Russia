@@ -1,0 +1,9 @@
+services:
+  travel-around-russia:
+    build: .
+    container_name: travel-around-russia-site
+    ports:
+      - "8015:80"
+    volumes:
+      - ..:/usr/share/nginx/html
+
